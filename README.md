@@ -18,8 +18,8 @@ L’objectif pédagogique : apprendre à détecter et corriger des failles de s�
 Cloner le dépôt :
 
 ```bash
-git clone https://github.com/Daniween/BTS_CYBER_SYMFONY_1.git
-cd BTS_CYBER_SYMFONY_1
+git clone https://github.com/Daniween/YBER_SYMFONY_1.git
+cd CYBER_SYMFONY_1
 composer install
 ```
 
